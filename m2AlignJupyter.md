@@ -1,9 +1,7 @@
 
-# Tarea 6: Alineamiento múltiple de secuencias 
+#Alineamiento múltiple de secuencias 
 
 Naira María Chiclana García 
-
-44717497T
 
 
 ### secMejorValor.py
