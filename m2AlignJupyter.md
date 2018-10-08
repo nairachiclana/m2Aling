@@ -1,5 +1,5 @@
 
-#Alineamiento múltiple de secuencias 
+# Alineamiento múltiple de secuencias 
 
 Naira María Chiclana García 
 
